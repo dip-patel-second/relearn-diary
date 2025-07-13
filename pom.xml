@@ -24,6 +24,9 @@
 			<sonar.projectKey>relarn-diary</sonar.projectKey>
 			<sonar.projectName>relarn-diary</sonar.projectName>
 			<sonar.projectVersion>1.0</sonar.projectVersion>
+			<sonar.organization>my-diary-app</sonar.organization>
+			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 	</properties>
 
 
